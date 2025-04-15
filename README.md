@@ -1,1 +1,1 @@
-# CSCI531-Project
+# Secure Decentralized Audit System
