@@ -1,6 +1,6 @@
 [
-    { "user_id": "auditor1", "role": "auditor" },
-    { "user_id": "patient123", "role": "patient" },
-    { "user_id": "patient789", "role": "patient" }
-  ]
-  
+  { "user_id": "doctor1", "role": "doctor" },
+  { "user_id": "auditor1", "role": "auditor" },
+  { "user_id": "patient123", "role": "patient" },
+  { "user_id": "patient456", "role": "patient" }
+]
