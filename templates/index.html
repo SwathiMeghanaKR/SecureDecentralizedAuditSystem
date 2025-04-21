@@ -3,15 +3,29 @@
 <head>
     <title>EHR Audit System</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="../static/styles.css">
+
+
 </head>
 <body class="container py-5">
     <h1 class="mb-4">Welcome to the EHR Audit Logging System</h1>
     <p>This system records and audits access to electronic health records in a secure, tamper-evident, and decentralized manner.</p>
 
     <div class="mt-4">
-        <a href="/add" class="btn btn-primary">Add Audit Record</a>
-        <a href="/logs" class="btn btn-secondary">View Audit Logs</a>
-        <a href="/login" class="btn btn-outline-dark">Login</a>
+        <a href="/add" class="btn btn-primary">
+            <i class="bi bi-plus-circle"></i> Add Audit Record
+        </a>
+        
+        <a href="/logs" class="btn btn-secondary">
+            <i class="bi bi-journal-text"></i> View Logs
+        </a>
+        
+        <a href="/login" class="btn btn-outline-dark">
+            <i class="bi bi-box-arrow-in-right"></i> Login
+        </a>
+        
     </div>
 </body>
 </html>

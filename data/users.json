@@ -1,0 +1,6 @@
+[
+    { "user_id": "auditor1", "role": "auditor" },
+    { "user_id": "patient123", "role": "patient" },
+    { "user_id": "patient789", "role": "patient" }
+  ]
+  
